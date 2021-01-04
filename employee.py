@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+
 class emp:
     def __init__(self, name, dept):
         self.name=name
